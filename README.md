@@ -6,10 +6,11 @@ I build full-stack apps for real-world workflows: warehouse operations, marketpl
 
 ## What I like building
 
+- 🖨️ **Printer apps and company tools:** In my current role, I enjoy building printer-related apps and company software—from warehouse ERP to smaller management tools that keep daily operations organized.
 - 🏭 **ERP and marketplace tools:** inventory across warehouses, SKU mapping, orders, permissions, and seller-store workflows. Warehouse ERP includes Shopee/TikTok Shop-style order flows; THT ERP adds task, customer, attendance, export/import, and commerce modules.
 - 👨‍👩‍👧 **Family and community platforms:** bilingual spaces for family records, a family tree, events, Qurbani planning, finance, and chat. The Family Management System is an active, evolving project.
 - 🤖 **AI and support APIs:** translation, language detection, product support chat, document and media processing, FAQs, and face attendance services.
-- 🖨️ **Commerce and printing experiences:** web interfaces that make online printing and business workflows easier to navigate.
+- 🛒 **Commerce and printing experiences:** web interfaces that make online printing and business workflows easier to navigate.
 
 ## Selected projects
 
@@ -24,7 +25,7 @@ I build full-stack apps for real-world workflows: warehouse operations, marketpl
 
 ## Tools I use
 
-**Frontend:** React, TypeScript, Vite, Tailwind CSS, TanStack Query, Zustand  
+**Frontend:** **JavaScript** (primary), TypeScript, React, Vite, Tailwind CSS, TanStack Query, Zustand  
 **Backend and APIs:** Node.js, Express, REST, JWT, Swagger/OpenAPI, OpenAI  
 **Data:** MySQL, PostgreSQL/Supabase, Redis, Sequelize
 
